@@ -1,11 +1,10 @@
 Projet réalisé dans le cadre de ma formation en webdesign. 2025.
 
-Le projet comprenait :
+# Landing Page UI/UX
+
 - conception UI/UX
 - structure et organisation du contenu
 - identité visuelle
-- optimisation sécurité
-- intégration et personnalisation WordPress
 
 ## Technologies utilisées
 
@@ -23,3 +22,9 @@ Ce projet m’a permis de développer mes compétences en :
 
 
 Hasnia Ghacham
+
+## Fonctionnalités
+
+- responsive design
+- menu mobile
+- optimisation UX
