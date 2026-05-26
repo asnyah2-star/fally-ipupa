@@ -1,5 +1,3 @@
-# Site Maison Médicale
-
 Projet réalisé dans le cadre de ma formation en webdesign. 2025.
 
 Le projet comprenait :
